@@ -1,0 +1,10 @@
+<queryContextRequest>
+    <entityIdList>
+        <entityId>
+            <id>###entityID###</id>
+        </entityId>
+    </entityIdList>
+    <attributeList>
+        <attribute>temperature</attribute>
+    </attributeList>
+</queryContextRequest>

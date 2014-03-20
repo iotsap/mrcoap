@@ -1,0 +1,13 @@
+body {
+    color: #000000;
+    background-color: #dcdcdc;
+}
+
+h1 {
+    background-color: #cccccc;
+}
+
+table {
+    background-color: #cccccc;
+    border: 1px solid black;
+}

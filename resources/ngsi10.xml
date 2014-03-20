@@ -1,0 +1,22 @@
+<updateContextRequest>
+<contextElementList>
+    <contextElement>
+        <entityId>
+            <id>###entityID###</id>
+        </entityId>
+        <contextAttributeList>
+            <contextAttribute>
+                <name>temperature</name>
+                <contextValue>###value###</contextValue>
+                <metadata>
+                    <contextMetadata>
+                        <name>temperature</name>
+                        <value>remote sensor</value>
+                    </contextMetadata>
+                </metadata>
+            </contextAttribute>
+        </contextAttributeList>
+    </contextElement>
+</contextElementList>
+<updateAction>UPDATE</updateAction>
+</updateContextRequest>
